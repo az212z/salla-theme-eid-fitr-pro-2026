@@ -1,9 +1,9 @@
 {
-  "name": "Eid Fitr Pro",
-  "slug": "salla-theme-eid-fitr-pro-2026",
-  "version": "1.0.0",
+  "name": "Eid Fitr Pro 2026",
+  "slug": "eid-fitr-pro-2026",
+  "version": "1.0.1",
   "author": "Nadir",
-  "description": "ثيم موسمي لعيد الفطر 2026",
+  "description": "Professional Salla theme: Eid Fitr Pro 2026",
   "rtl": true,
   "entry": "templates/home.html",
   "assets": {

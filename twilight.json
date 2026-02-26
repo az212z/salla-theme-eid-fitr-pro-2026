@@ -1,13 +1,14 @@
 {
   "name": {
-    "ar": "Eid Fitr Pro",
-    "en": "Eid Fitr Pro"
+    "ar": "ثيم Eid Fitr Pro 2026",
+    "en": "Eid Fitr Pro 2026 Theme"
   },
   "repository": "https://github.com/az212z/salla-theme-eid-fitr-pro-2026",
   "author_email": "alialamer1418asd@gmail.com",
+  "support_url": "https://github.com/az212z/salla-theme-eid-fitr-pro-2026/issues",
   "description": {
-    "ar": "ثيم موسمي لعيد الفطر 2026",
-    "en": "ثيم موسمي لعيد الفطر 2026"
+    "ar": "ثيم احترافي لمتجر سلة: Eid Fitr Pro 2026",
+    "en": "Professional Salla theme: Eid Fitr Pro 2026"
   },
   "features": [
     "fonts",
