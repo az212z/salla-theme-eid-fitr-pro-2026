@@ -1,21 +1,47 @@
 {
-  "name": {
-    "ar": "ثيم Eid Fitr Pro 2026",
-    "en": "Eid Fitr Pro 2026 Theme"
-  },
-  "repository": "https://github.com/az212z/salla-theme-eid-fitr-pro-2026",
-  "author_email": "alialamer1418asd@gmail.com",
-  "support_url": "https://github.com/az212z/salla-theme-eid-fitr-pro-2026/issues",
-  "description": {
-    "ar": "ثيم احترافي لمتجر سلة: Eid Fitr Pro 2026",
-    "en": "Professional Salla theme: Eid Fitr Pro 2026"
-  },
-  "features": [
-    "fonts",
-    "color",
-    "filters",
-    "breadcrumb"
-  ],
-  "settings": [],
-  "components": []
+    "name": {
+        "ar": "ثيم Eid Fitr Pro 2026",
+        "en": "Eid Fitr Pro 2026 Theme"
+    },
+    "repository": "https://github.com/az212z/salla-theme-eid-fitr-pro-2026",
+    "author_email": "alialamer1418asd@gmail.com",
+    "support_url": "https://github.com/az212z/salla-theme-eid-fitr-pro-2026/issues",
+    "description": {
+        "ar": "ثيم احترافي لمتجر سلة: Eid Fitr Pro 2026",
+        "en": "Professional Salla theme: Eid Fitr Pro 2026"
+    },
+    "features": [
+        "fonts",
+        "color",
+        "filters",
+        "breadcrumb"
+    ],
+    "settings": [
+        {
+            "id": "description",
+            "type": "static",
+            "format": "description",
+            "label": "Description",
+            "value": null,
+            "variant": "h1",
+            "icon": "sicon-format-size"
+        },
+        {
+            "id": "line",
+            "type": "static",
+            "format": "line",
+            "label": "Line",
+            "icon": "sicon-minus"
+        },
+        {
+            "id": "title",
+            "type": "static",
+            "format": "title",
+            "label": "Title",
+            "value": null,
+            "variant": "h1",
+            "icon": "sicon-format-text"
+        }
+    ],
+    "components": []
 }
